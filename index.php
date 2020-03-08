@@ -41,6 +41,7 @@
         <a class="nav-link active" href="#">Home</a>
         <a class="nav-link" href="#">Log In</a>
         <a class="nav-link" href="#">Create Account</a>
+        <a class="nav-link" href="#">Just Testing</a>
       </nav>
     </div>
   </header>
